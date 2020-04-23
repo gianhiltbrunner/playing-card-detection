@@ -1,0 +1,37 @@
+<annotation>
+        <folder>FOLDER</folder>
+        <filename>106384105.jpg</filename>
+        <path>one_card_out/106384105.jpg</path>
+        <source>
+                <database>Unknown</database>
+        </source>
+        <size>
+                <width>720</width>
+                <height>720</height>
+                <depth>3</depth>
+        </size>
+ <object>
+                <name>h_k.png</name>
+                <pose>Unspecified</pose>
+                <truncated>0</truncated>
+                <difficult>0</difficult>
+                <bndbox>
+                        <xmin>211</xmin>
+                        <ymin>364</ymin>
+                        <xmax>339</xmax>
+                        <ymax>493</ymax>
+                </bndbox>
+        </object>
+ <object>
+                <name>h_k.png</name>
+                <pose>Unspecified</pose>
+                <truncated>0</truncated>
+                <difficult>0</difficult>
+                <bndbox>
+                        <xmin>447</xmin>
+                        <ymin>456</ymin>
+                        <xmax>576</xmax>
+                        <ymax>586</ymax>
+                </bndbox>
+        </object>
+</annotation>        
